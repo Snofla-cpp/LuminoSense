@@ -1,1 +1,1 @@
-status = undetected;
+status=Undetected
